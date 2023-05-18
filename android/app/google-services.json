@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "804062564130",
+    "project_id": "fir-koko-5095a",
+    "storage_bucket": "fir-koko-5095a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804062564130:android:079eff555098ad3c8b1f7b",
+        "android_client_info": {
+          "package_name": "com.example.fire_auth_koko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804062564130-9979cvb0f91u0mn5f7h33auh3s8ud1ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCddvh1P5n8n4HEzR_i9dFeReMwl1qgkG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804062564130-9979cvb0f91u0mn5f7h33auh3s8ud1ca.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804062564130-kkr10tm9rkstgv6ukfbusi6e76ndeu7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireAuthKoko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
